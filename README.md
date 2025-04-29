@@ -80,6 +80,7 @@ int main() {
 
 ## OUTPUT
 
+![alt text](img2/pipe1.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
@@ -152,6 +153,7 @@ int main() {
 
 ## OUTPUT
 
+![alt text](img2/fifo1.png)
 
 # RESULT:
 The program is executed successfully.
